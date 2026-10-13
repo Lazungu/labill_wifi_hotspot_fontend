@@ -1,0 +1,1 @@
+import{G as e}from"./index-BAirw6sx.js";e(`sms/getSmsSendContext`);var t=e(`sms/submitSmsCampaign`);export{t as submitSmsCampaign};
